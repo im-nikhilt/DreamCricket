@@ -1,2 +1,2 @@
 # DreamCricket
-Select your Dream 11 team
+Select your Dream 11 team from Mobile App
